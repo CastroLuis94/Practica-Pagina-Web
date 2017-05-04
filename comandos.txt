@@ -1,0 +1,27 @@
+-----HTML----
+
+p = parrafos
+i = letra italica
+link = ponerle el icono
+strong/b = negrita(strong es para aumentar la probabilidad de aparicion en el buscador, es limitado.)
+blockquote = para citas
+cite = autor de la cita
+br = espacios
+a href = hipervinculo(target = "_blank" si queremos que se abra en una nueva pestaña y http si no es de nuestro domiño)
+a href mailto = para dejar un mail.
+ul = lista desordenada
+ol = lista ordenada
+img src = insertar imagen (agregar un alt que sirve para poner texto en el caso que no cargue)
+table = crea una tabla(las columnas con td y las filas tr)
+form input = casilla formulario
+label = nombre de la casilla a completar
+nav = menu de navegacion
+aside = informacion de segundo plano
+footer = contenido de la pagina/pie de pagina(no creo usarlo)
+meta = contenido para que encuentren tu pagina mas facilmente
+
+-----CSS------
+
+font-size = tamaño fuente
+.Nombre_clase = podes seleccionar una clase para darle propiedades
+a[href] = para que todos los hiperviculos con ese link se modifiquen
